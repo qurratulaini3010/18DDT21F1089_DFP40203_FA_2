@@ -1,5 +1,3 @@
-
-
 filename = "DailySales.txt"
 
 
