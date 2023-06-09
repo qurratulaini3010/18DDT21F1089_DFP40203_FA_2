@@ -1,0 +1,9 @@
+Total Price with Discount: 0.0
+Total Price For Kids: 50
+Total Price For Adults: 200
+Total Price: 250
+Total Price with Discount: 237.5
+Total Price For Kids: 50
+Total Price For Adults: 200
+Total Price: 250
+Total Price with Discount: 237.5
